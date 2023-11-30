@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import hero_image from "../Assets/hero_image.png";
+import hero_image from "../Assets/hero_image2.png";
 
 const Hero = () => {
   return (
@@ -13,7 +13,6 @@ const Hero = () => {
         </div>
         <div className="hero-latest-btn">
           <div>Shop Now</div>
-          
         </div>
       </div>
       <div className="hero-right">
