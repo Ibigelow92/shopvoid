@@ -1,9 +1,10 @@
 .footer {
+  margin-top: 70px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 50px;
+  gap: 20px;
 }
 .footer-logo {
   display: flex;
@@ -51,4 +52,8 @@
   border-radius: 10px;
   height: 3px;
   background: #c7c7c7;
+}
+
+.shopvoid-logo {
+  height: 100px;
 }
