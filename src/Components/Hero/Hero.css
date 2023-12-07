@@ -50,3 +50,19 @@
 .hero-img {
   height: 600px;
 }
+
+@media screen and (max-width: 768px) {
+  .hero-left p {
+    color: #171717;
+    font-size: 64px;
+    font-weight: 700;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .hero-left p {
+    color: #171717;
+    font-size: 32px;
+    font-weight: 700;
+  }
+}
